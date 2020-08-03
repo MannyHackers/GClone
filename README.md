@@ -42,7 +42,6 @@ folde_id1 can be:Common directory, shared directory, team disk.
   
 ```
 gclone copy gc:{folde_id1} gc:{folde_id2}/media/  --drive-server-side-across-configs
-
 ```
 
 ```
@@ -51,6 +50,5 @@ gclone copy gc:{share_fiel_id} gc:{folde_id2}  --drive-server-side-across-config
 
 ```
 gclone copy ms1:{Source} ms2:{Destination} --drive-server-side-across-configs -v
-
 ```
 
