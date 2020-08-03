@@ -1,5 +1,5 @@
   
-gclone  
+GClone ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MannyHackers/GClone)  
 ====  
 English [简体中文](https://github.com/donwa/gclone/blob/master/README_zh.md)  
    
@@ -48,5 +48,9 @@ gclone copy gc:{folde_id1} gc:{folde_id2}/media/  --drive-server-side-across-con
 ```
 gclone copy gc:{share_fiel_id} gc:{folde_id2}  --drive-server-side-across-configs
 ```
-  
+
+```
+gclone copy ms1:{Source} ms2:{Destination} --drive-server-side-across-configs -v
+
+```
 
